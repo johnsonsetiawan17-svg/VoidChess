@@ -10,4 +10,5 @@ analysis
 fight mode
 classifications
 arrows
+iterative deepening
 and much more!! 
